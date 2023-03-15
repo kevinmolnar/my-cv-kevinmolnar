@@ -27,4 +27,4 @@ In order to pass the individual assessment, you must modify the following elemen
 - Social icons: FontAwesome - https://fontawesome.com/ - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
 
 
-My website url: https://kevinmolnar.github.io/my-cv/
+My website url: https://kevinmolnar.github.io/my-cv-kevinmolnar/
