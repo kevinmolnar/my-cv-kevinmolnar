@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family:'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
 	color: #03067B;
 	background-color: #f8f8fc;
 }
@@ -17,16 +17,21 @@ body {
     background-color: #E2FED9;
 }
 .name {
-	font-type: 'Helvetica';
-	color: '#8020cc';
-	text-align: center;
+	font-type: 'Arial';
+	color: '#8020bc';
+	text-align: left;
 	font-style: bold;
 	}
 .resume-main {
 	background-color: #FFFCFC;
 }
-.fst-italic {align-content: center}
-.tagline {align-content: center}
+.fst-italic {
+	align-content: center
+}
+.tagline {
+	align-content: center
+}
+
 .resume-aside {
 	background-color: #BFE9C4;
 }
