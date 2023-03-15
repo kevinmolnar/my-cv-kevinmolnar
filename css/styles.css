@@ -49,7 +49,7 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
-.fw-bolder {
+.name {
 	font-type:'Roboto';
 	color: '#8020cc';
 	text-align: center;
