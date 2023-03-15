@@ -26,10 +26,10 @@ body {
 	background-color: #FFFCFC;
 }
 .fst-italic {
-	align-content: center
+	align-content: 'center'
 }
 .tagline {
-	align-content: center
+	align-content: 'center'
 }
 
 .resume-aside {
