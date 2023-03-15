@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family:'Futura''sans-serif';
+	font-family:'Helvetica Neue', Helvetica, Arial, 'sans-serif';
 	color: #03067B;
 	background-color: #f8f8fc;
 }
@@ -16,7 +16,12 @@ body {
 .resume-header {
     background-color: #E2FED9;
 }
-
+.name {
+	font-type: 'Helvetica';
+	color: '#8020cc';
+	text-align: center;
+	font-style: bold;
+	text-decoration: underline #ffcc00}
 .resume-main {
 	background-color: #FFFCFC;
 }
@@ -49,9 +54,3 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
-.name {
-	font-type:'Roboto';
-	color: '#8020cc';
-	text-align: center;
-	font-style: bold;
-	text-decoration: underline #ffcc00}
