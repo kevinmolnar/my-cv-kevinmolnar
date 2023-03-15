@@ -21,11 +21,12 @@ body {
 	color: '#8020cc';
 	text-align: center;
 	font-style: bold;
-	text-decoration: underline #ffcc00}
+	}
 .resume-main {
 	background-color: #FFFCFC;
 }
-
+.fst-italic {align-content: center}
+.tagline {align-content: center}
 .resume-aside {
 	background-color: #BFE9C4;
 }
